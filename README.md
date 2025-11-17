@@ -45,6 +45,6 @@ Before analysis, missing values are handled and relevant features are examined.
 
 
 ## ✨ Author
-Latysh Taras/Russia|Moskow  
-GitHub: https://github.com/LatyshTaras
-Telegram: @poitin_d
+- Latysh Taras/Russia|Moskow  
+- GitHub: https://github.com/LatyshTaras
+- Telegram: @poitin_d
